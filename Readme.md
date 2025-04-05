@@ -11,7 +11,7 @@
 ## Como rodar o projeto:
 
 ### **Clonar o repositório**
-
+https://github.com/giovanniPanella/Avaliacao
 
 
 ## Rodar a aplicação com Docker
